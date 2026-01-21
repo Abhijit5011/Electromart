@@ -1,0 +1,8 @@
+{
+  "name": "Electromart – Sponsored by KT Electricals",
+  "description": "A comprehensive, responsive Indian e-commerce application for electronics and electrical equipment with a robust admin panel, invoice system, and Supabase integration.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
