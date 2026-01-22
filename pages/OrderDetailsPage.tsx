@@ -195,7 +195,7 @@ const OrderDetailsPage: React.FC = () => {
           <div className="flex justify-between items-start border-b-2 border-gray-900 pb-8 mb-8">
             <div>
               <h1 className="text-3xl font-bold text-gray-900">ELECTROMART</h1>
-              <p className="text-xs font-bold text-gray-500 uppercase tracking-widest mt-1">Sponsored by KT Electricals</p>
+              <p className="text-xs font-bold text-gray-500 uppercase tracking-widest mt-1">by KT Electricals</p>
             </div>
             <div className="text-right">
               <h2 className="text-xl font-bold uppercase tracking-widest mb-2">TAX INVOICE</h2>
@@ -214,8 +214,9 @@ const OrderDetailsPage: React.FC = () => {
              <div className="text-right">
                 <h4 className="text-[10px] font-bold text-gray-400 uppercase tracking-widest mb-2">Vendor Details</h4>
                 <p className="font-bold text-sm">KT Electricals Pvt Ltd</p>
-                <p className="text-xs text-gray-600 mt-1">Industrial Estate, Mumbai - 400001</p>
-                <p className="text-xs font-bold text-gray-900 mt-2">GSTIN: 27AAAAA0000A1Z5</p>
+                <p className="text-xs text-gray-600 mt-1">Mr. Vijay Awate, </p> 
+                <p className="text-xs text-gray-600 mt-1"> Savlaj, Tal. Tasgaon, Dist. Sangli, 416311</p>
+                
              </div>
           </div>
 
