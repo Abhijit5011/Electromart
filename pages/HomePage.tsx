@@ -39,7 +39,7 @@ const HomePage: React.FC = () => {
         <div className="max-w-7xl mx-auto px-4 flex flex-col lg:flex-row items-center gap-12">
           <div className="lg:w-1/2 text-center lg:text-left">
             <h1 className="text-4xl font-bold text-gray-900 mb-6 leading-tight">
-              Premium Electronics & <span className="text-blue-600">Electrical</span> Supplies
+              K T <span className="text-blue-600">Electricals</span> - Your One-Stop Shop for Electrical & Electronics Goods
             </h1>
             <p className="text-lg text-gray-600 mb-8 max-w-lg">
               Find everything from professional electrical components to the latest gadgets. Quality guaranteed by KT Electricals.
