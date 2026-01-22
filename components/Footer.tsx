@@ -10,7 +10,7 @@ const Footer: React.FC = () => {
           <div className="col-span-1 md:col-span-2">
             <Link to="/" className="flex flex-col items-start">
               <span className="text-2xl font-bold text-blue-600 tracking-tight leading-none">Electromart</span>
-              <span className="text-xs text-gray-500 font-medium uppercase tracking-wider">Sponsored by KT Electricals</span>
+              <span className="text-xs text-gray-500 font-medium uppercase tracking-wider">By KT Electricals, Savlaj</span>
             </Link>
             <p className="mt-4 text-gray-500 max-w-sm">
               Your one-stop shop for premium electronics and electrical equipment. Serving quality with trust since years.
@@ -31,7 +31,7 @@ const Footer: React.FC = () => {
               <li><Link to="/profile" className="hover:text-blue-600">Help Center</Link></li>
               <li><Link to="/profile" className="hover:text-blue-600">Feedback</Link></li>
               <li><Link to="/profile" className="hover:text-blue-600">Complaints</Link></li>
-              <li><span className="text-gray-400">Toll Free: 1800-ELE-MART</span></li>
+              <li><span className="text-gray-400">Contact: 8308324444 </span></li>
             </ul>
           </div>
         </div>
